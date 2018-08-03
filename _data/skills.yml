@@ -5,11 +5,14 @@
 
 # Communications strategy
 - skill: Technical Skills
-  description: Amazon Web Services (AWS IoT, Lambda, DynamoDB, API Gateway); Unix and Linux; Microsoft Office; Use of Raspberry Pi and Arduino
+  description: <ul class="resume-item-list"><li>Amazon Web Services (AWS IoT, Lambda, DynamoDB and API Gateway)<li><li>Linux</li><li>Microsoft Office</li><li>Internet of Things prototyping using Raspberry pi and Arduino</li></ul>
 
 # Digital content development and creation
 - skill: Digital content development and creation
-  description:  Front-end web development and Social Media Marketing
+  description:  <ul class="resume-item-list"><li>Web development using Jekyll, Wordpress, Squarespace and Shopify</li><li>Social Media Marketing</li><ul>
 
 - skill: Tools
-  description: Soure Control (Github, Git and Bitbucket); Design Prototyping Tools (Invision, Squarespace and draw.io); Project Management Tools (Atlassian, Slack and Trello)
+  description: <ul class="resume-item-list"><li>Soure Control (Github, Git and Bitbucket)</li><li>Design Prototyping Tools (Invision, Hootsuite and draw.io)</li><li>Project Management Tools (Atlassian, Slack and Trello)</li><li>Payment Integration using Paypal, Stripe and Braintree</li></ul>
+  
+- skill: Interpersonal Skills
+  description:  <ul class="resume-item-list"><li>Leadership</li><li>Team Management</li></ul>
