@@ -31,7 +31,7 @@ Most of the content configuration will take place in the `/_layouts/resume.html`
 
 ### Publishing to GitHub Pages for free
 
-[GitHub Pages](https://pages.github.com/) will host this for free with your GitHub account. Just make sure you're using a `gh-pages` branch, and the site will automatically be available at `yourusername.github.io/resume-template` (you can rename the repo to resume for your own use if you want it to be available at `yourusername.github.io/resume`). You can also add a CNAME if you want it to be available at a custom domain...
+[GitHub Pages](https://pages.github.com/) will host this for free with your GitHub account. 
 
 ### Configuring with your own domain name
 
@@ -42,4 +42,4 @@ To setup your GH Pages site with a custom domain, [follow the instructions](http
 
 The code and styles are licensed under the MIT license. [See project license.](LICENSE) Obviously you should not use the content of this repo in your own resume. :wink:
 
-Disclaimer: Use of Homer J. Simpson image and name used under [Fair Use](https://en.wikipedia.org/wiki/Fair_use) for educational purposes. Project license does not apply to use of this material.
+
