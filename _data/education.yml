@@ -4,16 +4,16 @@
   year: 2012 &mdash; 2018
  # awards:
  #   - award: Summa Cumme Laude graduate
-  major: <b>Major: &emsp</b>  Networking and Telecommunication
-  minor: <b>Minor: &emsp</b> Software and Web Development
-  country: <b>Country: &emsp</b> Finland
+  major: <b>Major:&nbsp&nbsp&nbsp&nbsp</b>  Networking and Telecommunication
+  minor: <b>Minor:&nbsp&nbsp&nbsp&nbsp</b> Software and Web Development
+  country: <b>Country:&nbsp&nbsp&nbsp&nbsp</b> Finland
  # summary: 
 
 - degree: Higher Secondary School
   uni: SOS Hermann Gmeiner School Gandaki
   year: 2007 &mdash; 2009
-  major: <b>Major: &emsp</b> Science(Physics, Chemistry and Mathematics)
-  minor: <b>Minor: &emsp</b> Biology 
-  country: <b>Country: &emsp</b> Nepal
+  major: <b>Major:&nbsp&nbsp&nbsp&nbsp</b> Science(Physics, Chemistry and Mathematics)
+  minor: <b>Minor:&nbsp&nbsp&nbsp&nbsp</b> Biology 
+  country: <b>Country:&nbsp&nbsp&nbsp&nbsp</b> Nepal
   #award: Most likely to succeed
   #summary: You can choose to have either a single or multiple awards
