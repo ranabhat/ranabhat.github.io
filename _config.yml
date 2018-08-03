@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "ParibeshRanabhat"
+resume_name:                    "Paribesh Ranabhat"
 resume_title:                   "Junior Software Engineer at Unified Chargers Ltd"
 
 # used for the contact button in _layouts/resume.html
@@ -24,8 +24,7 @@ resume_header_contact_info:     "Juusintie 5 A 16, 02700, Kauniainen, Finland â€
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>An adapted and responsible graduate student currently working as a junior software engineer in a startup company focused in developing intelligent and compact fast DC charging stations for electric vehicles in Finland.  
-
-During my degree, as a student in Helsinki Metropolia University of Applied Sciences, I successfully combined my studies with work and commitments showing myself to be self-motivated, organised and capable of working under pressure. I have a clear, logical mind with a practical approach to problem solving and drive to see things through to completion. I enjoy working on my own initiative or in a team. In a nutshell, I am reliable, trustworthy, hardworking and eager to learn and have a genuine interest in PR.
+</p><p>During my degree, as a student in Helsinki Metropolia University of Applied Sciences, I successfully combined my studies with work and commitments showing myself to be self-motivated, organised and capable of working under pressure. I have a clear, logical mind with a practical approach to problem solving and drive to see things through to completion. I enjoy working on my own initiative or in a team. In a nutshell, I am reliable, trustworthy, hardworking and eager to learn and have a genuine interest in PR.
 </p>"
 
 # use "yes" to display the email contact button,
