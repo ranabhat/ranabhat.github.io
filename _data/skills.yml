@@ -1,14 +1,14 @@
 # Skills
 # Organizational leadership
-- skill: Computer Programming Skill
-  description: <ul class="resume-item-list"><li>C</li><li>Python</li><li>Javascript</li></ul>
+- skill: Computer Programming Skills
+  description: <ul class="resume-item-list"><li>C</li><li>Python</li><li>Javascript and Node.js </li></ul>
 
 # Communications strategy
 - skill: Technical Skills
-  description: <ul class="resume-item-list"><li>Amazon Web Services (<i>AWS IoT</i>, <i>Lambda</i>, <i>DynamoDB</i> and <i>API Gateway</i>)</li><li>Linux</li><li>Microsoft Office</li><li>Internet of Things prototyping using <i>Raspberry Pi</i> and <i>Arduino</i>.</li></ul>
+  description: <ul class="resume-item-list"><li>Amazon Web Services (<i>AWS IoT</i>, <i>Lambda</i>, <i>DynamoDB</i> and <i>API Gateway</i>)</li><li>Linux</li><li>Microsoft Office</li><li>Internet of Things prototyping using <i>Raspberry Pi</i> and <i>Arduino</i>.</li><li> Serverless(Claudiajs) and Heroku</li></ul>
 
 # Digital content development and creation
-- skill: Digital content development and creation
+- skill: Digital Content Development and Creation
   description:  <ul class="resume-item-list"><li>Web development using <i>Jekyll</i>, <i>Wordpress</i>, <i>Squarespace</i> and <i>Shopify</i>.</li><li>Social Media Marketing</li><ul>
 
 - skill: Tools
