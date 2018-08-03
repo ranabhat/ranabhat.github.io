@@ -1,0 +1,16 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- project: Innovation Project
+  role:  Primary Developer
+  duration: October, 2015 &mdash; April, 2016
+  # url: "#"
+  description: Developed an education environment consisting of control unit; an Arduino based physical box controlling operation of Python software on PC, which controls and displays are used as needed in electrical communication's assignment.
+
+# Springfield Community Outreach Group
+- project: Startup Training and Competition Participation
+  role: Team Member
+  duration: May,2016 
+  # url: "#"
+  description: Learned, developed and implemented lean startup business model to develop a application aimed in assisting employee to fill up the work records in small and medium-sized enterprises.
