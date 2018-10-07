@@ -16,8 +16,5 @@
 - company: Metropolia University of Applied Sciences
   position: Intern
   duration:   Sep, 2017  &mdash; Feb, 2018
-<<<<<<< HEAD
   summary: Research and development in the field of Networking, IoT and smart city.  <ul class="resume-item-list"><li>Used Trello, an online project management tool, for keeeping track of the tasks done during internship.</li><li>Created installation and set up guide for connecting Nanobeam AC.</li><li>Installed Linux OS, Windows Operating system on Desktops and laptops and</li>Created Linux server for hosting websites and node.js projects.<li>Used Raspberry Pi and Node.js to prototype facial recognition Door Lock.</li><li>Researched IoT platforms provided by IBM and Amazon Web Services.</li><li>Created static personal resume website using Jekyll and Github.</li><li>Created About us landing page template using Bootstrap.</li></ul>
-=======
-  summary: Research and development in the field of Networking, IoT and smart city. <ul class="resume-item-list"><li>Used Trello, an online project management tool, for keeeping track of the tasks done during internship.</li><li>Created installation and set up guide for connecting Nanobeam AC.</li><li>Installed Linux OS, Windows Operating system on Desktops and laptops and</li>Created Linux server for hosting websites and node.js projects.<li>Used Raspberry Pi and Node.js to prototype facial recognition Door Lock.</li><li>Researched IoT platforms provided by IBM and Amazon Web Services.</li><li>Created static personal resume website using Jekyll and Github.</li><li>Created About us landing page template using Bootstrap.</li></ul>
->>>>>>> bbbf165fe41324d90ef1ea4c10d13a784974e856
+
