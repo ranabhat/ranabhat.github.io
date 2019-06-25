@@ -22,9 +22,10 @@ To test locally, run the following in your terminal:
 5. Open your browser to `localhost:4000`
 
 ### If Docker Installed (save time in configuring Ruby Jekyll in work machine)
-1. `cd to the project root folder`
-2. Run ` docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle" --env JEKYLL_ENV=development -p 4000:4000 jekyll/jekyll:3.8 jekyll serve `
-3. Start editing your file according to your need.
+1. You can ignore *Requirements* and *Running locally* steps
+2. `cd to the project root folder`
+3. Run ` docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle" --env JEKYLL_ENV=development -p 4000:4000 jekyll/jekyll:3.8 jekyll serve `
+4. Start editing your file according to your need.
 
 ### Customizing
 
