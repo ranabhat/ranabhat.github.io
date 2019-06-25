@@ -17,15 +17,13 @@ resume_title:                   "Junior Software Engineer at Unified Chargers Oy
 resume_contact_email:           "paribessh_sab@hotmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "(+358)400960068"
+resume_contact_telephone:       "(+358)00000000"
 resume_contact_address:         "Juusintie 5 A 16, 02700, Kauniainen, Finland"
 
-resume_header_contact_info:     "Juusintie 5 A 16, 02700, Kauniainen, Finland • (+358)400960068 • paribessh_sab@hotmail.com"
+resume_header_contact_info:     "Juusintie 5 A 16, 02700, Kauniainen, Finland • (+358)00000000 • paribessh_sab@hotmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>An adapted and responsible graduate student currently working as a junior software engineer in a startup company focused in developing intelligent and compact fast DC charging stations for electric vehicles in Finland.  
-</p><p>During my degree, as a student in Helsinki Metropolia University of Applied Sciences, I successfully combined my studies with work and commitments showing myself to be self-motivated, organised and capable of working under pressure. I have a clear, logical mind with a practical approach to problem solving and drive to see things through to completion. I enjoy working on my own initiative or in a team. In a nutshell, I am reliable, trustworthy, hardworking and eager to learn and have a genuine interest in PR.
-</p>"
+resume_header_intro: "<p>An adapted and responsible graduate student, currently working as a junior software engineer with Unified Chargers, a Finnish developer of compact DC charging stations for electric vehicles.</p><p>During my degree, as a student at Helsinki Metropolia University of Applied Sciences, I successfully integrated my studies, technical skills, and tools to solve problems deliberately and decisively. I believe in collaboration and teamwork but also self-motivated enough to work on my own. In a nutshell, I am a hardworking, purposeful, precise, and enthusiastic person.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
