@@ -11,9 +11,15 @@
 To test locally, run the following in your terminal:
 
 1. Clone repo locally
-1. `bundle install`
-2. `bundle exec jekyll serve`
-3. Open your browser to `localhost:4000`
+2. `cd to the project root folder`
+3. `bundle install`
+4. `bundle exec jekyll serve`
+5. Open your browser to `localhost:4000`
+
+### If Docker Installed (save time in configuring Ruby Jekyll in work machine)
+1. `cd to the project root folder`
+2. Run ` docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle" --env JEKYLL_ENV=development -p 4000:4000 jekyll/jekyll:3.8 jekyll serve `
+3. Start editing your file
 
 ### Customizing
 
