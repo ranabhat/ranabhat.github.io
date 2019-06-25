@@ -8,8 +8,7 @@
 - [Requirements](#requirements)
 - [Running Locally](#running)
 - [Docker](#docker)
-- [Customizing](#custom)
-- [Configuration](#config)
+- [Basic Customization](#config)
 - [Editing Content Configuration](#edit)
 - [Publishing to GitHub](#publish)
 - [Configure with your domain name](#domain)
@@ -39,11 +38,7 @@ To test locally, run the following in your terminal:
 3. Run ` docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle" --env JEKYLL_ENV=development -p 4000:4000 jekyll/jekyll:3.8 jekyll serve `
 4. Start editing your file according to your need.
 
-## <a name="custom">Customizing</a>
-
-First you'll want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize.
-
-## <a name="config">Configuration</a>
+## <a name="config">Basic Customization</a>
 
 Most of the basic customization will take place in the `/_config.yml` file. Here is a list of customizations available via `/_config.yml`:
 
