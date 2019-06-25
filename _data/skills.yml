@@ -1,18 +1,18 @@
 # Skills
 # Organizational leadership
 - skill: Computer Programming Skills
-  description: <ul class="resume-item-list"><li>C</li><li>Python</li><li>Javascript and Node.js </li></ul>
+  description: <ul class="resume-item-list"><li>C</li><li>Python [<i>Flask</i>, <i>Django</i>]</li><li>Javascript [<i>Node.js</i>, <i>hapi.js</i>, <i>claudia.js</i>] </li><li>PostgreSQL</li></ul>
 
 # Communications strategy
 - skill: Technical Skills
-  description: <ul class="resume-item-list"><li>Amazon Web Services (<i>AWS IoT</i>, <i>Lambda</i>, <i>DynamoDB</i> and <i>API Gateway</i>)</li><li>Linux</li><li>Microsoft Office</li><li>Internet of Things prototyping using <i>Raspberry Pi</i> and <i>Arduino</i>.</li><li> Serverless (<i>Claudiajs</i>) and Heroku</li></ul>
+  description: <ul class="resume-item-list"><li>Amazon Web Services (<i>AWS IoT</i>, <i>Lambda</i>, <i>DynamoDB</i> and <i>API Gateway</i>)</li><li>Linux</li><li>Microsoft Office</li><li>Internet of Things prototyping using <i>Raspberry Pi</i>,<i>Arduino</i> and <i>Platform IO</i>.</li><li> Netlify and Heroku</li></ul>
 
 # Digital content development and creation
 - skill: Digital Content Development and Creation
   description:  <ul class="resume-item-list"><li>Web development using <i>Bootstrap</i>, <i>Jekyll</i>, <i>Wordpress</i>, <i>Squarespace</i> and <i>Shopify</i>.</li><li>Social Media Marketing</li><ul>
 
-- skill: Tools
-  description: <ul class="resume-item-list"><li>Soure Control (<i>Github</i>, <i>Git</i> and <i>Bitbucket</i>)</li><li>Design Prototyping Tools (<i>Invision</i>, <i>Hootsuite</i> and <i>draw.io</i>)</li><li>Project Management Tools (<i>Atlassian</i>, <i>Slack</i> and <i>Trello</i>)</li><li>Payment Integration using <i>Paypal</i>, <i>Stripe</i> and <i>Braintree</i>.</li></ul>
+- skill: Tools & Technologies
+  description: <ul class="resume-item-list"><li>Soure Control (<i>Github</i>, <i>Git</i> and <i>Bitbucket</i>)</li><li>Continuous Integration <i>Travis</i></li><li>Docker</li><li>Design Prototyping Tools (<i>Invision</i>, <i>Hootsuite</i> and <i>draw.io</i>)</li><li>Project Management Tools (<i>Atlassian</i>, <i>Slack</i> and <i>Trello</i>)</li><li>Payment Integration using <i>Paypal</i>, <i>Stripe</i> and <i>Braintree</i>.</li></ul>
   
 - skill: Interpersonal Skills
-  description:  <ul class="resume-item-list"><li>Leadership</li><li>Team Management</li></ul>
+  description:  <ul class="resume-item-list"><li>Leadership</li><li>Team Management</li><li>Team Work</li></ul>
