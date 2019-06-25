@@ -4,14 +4,25 @@
 
 ![img](images/screenshot.png)
 
-## Docs
-### Requirements
+## Contents
+- [Requirements](#requirements)
+- [Running Locally](#running)
+- [Docker](#docker)
+- [Customizing](#custom)
+- [Configuration](#config)
+- [Editing Content](#edit)
+- [Publishing to GitHub](#publish)
+- [License](#license)
+
+
+
+## <a name="requirements">Requirements</a>
 
 1. Install a full [Ruby development environment](https://jekyllrb.com/docs/installation/)
 2. Install Jekyll and [bundler](https://jekyllrb.com/docs/ruby-101/#bundler) [gems](https://jekyllrb.com/docs/ruby-101/#gems)
-`gem install jekyll bundler`
+```gem install jekyll bundler```
 
-### Running locally
+## <a name="running">Running Locally</a>
 
 To test locally, run the following in your terminal:
 
@@ -21,27 +32,27 @@ To test locally, run the following in your terminal:
 4. `bundle exec jekyll serve`
 5. Open your browser to `localhost:4000`
 
-### If Docker Installed (save time in configuring Ruby Jekyll in work machine)
+## <a name="docker">If Docker Installed (save time in configuring Ruby Jekyll in work machine)</a> 
 1. You can ignore *Requirements* and *Running locally* steps
 2. `cd to the project root folder`
 3. Run ` docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle" --env JEKYLL_ENV=development -p 4000:4000 jekyll/jekyll:3.8 jekyll serve `
 4. Start editing your file according to your need.
 
-### Customizing
+## <a name="custom">Customizing</a>
 
 First you'll want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize.
 
-#### Options/configuration
+## <a name="config">Configuration</a>
 
 Most of the basic customization will take place in the `/_config.yml` file. Here is a list of customizations available via `/_config.yml`:
 
 [...write these out...]
 
-#### Editing content
+## <a name="edit">Editing Content</a>
 
 Most of the content configuration will take place in the `/_layouts/resume.html` file. Simply edit the markup there accordingly
 
-### Publishing to GitHub Pages for free
+## <a name="publish">Publishing to Github</a>
 
 [GitHub Pages](https://pages.github.com/) will host this for free with your GitHub account. 
 
@@ -50,7 +61,7 @@ Most of the content configuration will take place in the `/_layouts/resume.html`
 To setup your GH Pages site with a custom domain, [follow the instructions](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) on the GitHub Help site for that topic.
 
 
-## License
+## <a name="license">License</a>
 
 The code and styles are licensed under the MIT license. [See project license.](LICENSE) Obviously you should not use the content of this repo in your own resume. :wink:
 
