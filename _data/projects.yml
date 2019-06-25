@@ -6,11 +6,10 @@
   role:  Primary Developer
   duration: October, 2015 &mdash; April, 2016
   # url: "#"
-  description: Developed an education environment consisting of control unit; an Arduino based physical box controlling operation of Python software on PC, which controls and displays are used as needed in electrical communication's assignment.
-
+  description: Designed and developed a learning platform prototype, a visual and interactive way to learn the basics of electric signals and waves without being in labs at the university, that resulted more than 400 students using the learning platform. The platform offers realistic scenarios which are simulated by the controller and software application, facilitates student to experiment how signals and waves behave in a real scenario. It includes a control unit, an Arduino based physical box that simulates basic lab equipment such as switches, buttons, and potentiometer, connected with a computer or laptop that includes an application built on Python programming language. Students, then with application opened and a control unit connected with a computer, can start learning signals, waves, and perform assignments in an interactive way.
 # Springfield Community Outreach Group
 - project: Startup Training and Competition Participation
   role: Team Member
   duration: May,2016 
   # url: "#"
-  description: Learned, developed and implemented lean startup business model to develop an application aimed in assisting employee to fill up the work records in small and medium-sized enterprises.
+  description: Learned, researched and implemented, in a team of four undergraduate students from business and IT faculty, a lean startup business model to develop a product name Time Machine. The minimum viable product (MVP), a user-friendly application, provides an easy way to fill up the work records for employees at different companies. The project was part of the course called “Startup Challenge” that I attended during my undergraduate studies in Metropolia.
