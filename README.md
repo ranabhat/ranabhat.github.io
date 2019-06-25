@@ -10,8 +10,9 @@
 - [Docker](#docker)
 - [Customizing](#custom)
 - [Configuration](#config)
-- [Editing Content](#edit)
+- [Editing Content Configuration](#edit)
 - [Publishing to GitHub](#publish)
+- [Configure with your domain name](#domain)
 - [License](#license)
 
 
@@ -56,7 +57,7 @@ Most of the content configuration will take place in the `/_layouts/resume.html`
 
 [GitHub Pages](https://pages.github.com/) will host this for free with your GitHub account. 
 
-### Configuring with your own domain name
+## <a name="domain">Configuring with your own domain name</a>
 
 To setup your GH Pages site with a custom domain, [follow the instructions](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) on the GitHub Help site for that topic.
 
