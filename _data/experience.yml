@@ -1,9 +1,9 @@
 # Jobs
 # Junior Software Engineer of Unified Chargers Oy
 - company: Unified Chargers Oy
-  position: Junior Software Engineer 
+  position: Software Developer 
   duration: September, 2018 &mdash; Present
-  summary: My role as Junior Software Engineer is to assist in designing and developing software for EV charging station.	<ul class="resume-item-list"><li>Building applications to solve the company’s identified problems and challenges on secure, flexible, scalable and reliable cloud service platform such as Amazon Web Services (AWS).</li><li>Designed and developed software, on the AWS platform, that provides cloud-based real time communication between an electric vehicle and DC charging station.</li><li>Performed online payment experiments using online payment solution platforms, such as Stripe, ePay, and Bambora and experimented integrating the payment solutions with the charging station mobile application.</li><li>Evaluated online payment solution platform’s features, accessibility, usability, and feasibility and as a result, implemented Stripe which allowed easy integration for the mobile application to carry out electric vehicle charging payments.</li><li>Worked with cross-functional team members, and engaged with teams from other companies to achieve common objectives, such as the development of a fully functional mobile application for DC charging stations.</li></ul>
+  summary: My role as software developer is to assist in designing and developing software for EV charging station.	<ul class="resume-item-list"><li>Designed and developed software, on the AWS platform, that provides cloud-based real-time communication between an electric vehicle and DC charging station.</li><li>Created, published, maintained and monitored Charging Station API with AWS Gateway that allows users to start, stop and retrieve information from the charging station.</li><li>Created scripts to set up functionalities such as networking capability, program execution in virtual environments, monitoring the programs and services running in the microprocessor.</li><li>Used ansible to automate; configuration of hardware, installation of packages and deploying application.</li></ul>
 
 # Trainee of Unified Chargers Oy
 - company: Unified Chargers Oy
