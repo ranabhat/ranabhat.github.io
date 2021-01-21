@@ -3,7 +3,7 @@
 - company: Unified Chargers Oy
   position: Software Developer 
   duration: September, 2018 &mdash; Present
-  summary: My role as software developer is to assist in designing and developing software for EV charging station.	<ul class="resume-item-list"><li>Designed and developed software, on the AWS platform, that provides cloud-based real-time communication between an electric vehicle and DC charging station.</li><li>Created scripts to set up functionalities such as networking capability, program execution in virtual environments, monitoring the programs and services running in the microprocessor.</li><li>Using Spark's Python DataFrame API, a tool to support python with spark, for log analytics.</li><li>Implemented ansible to automate; configuration of hardware, installation of packages and deploying application.</li><li>Implemented Terraform to create infrastructure for running core application on AWS.</li></ul>
+  summary: My role as software developer is to assist in designing and developing software for EV charging station.	<ul class="resume-item-list"><li>Lead a team to design and build software that provides cloud-based real-time communication between an electric vehicle and a DC charging station</li><li>Lead a team to build an application using Python for integrating a contactless payment terminal to an electric car charging station.</li><li>Eliminated 95% manual configuration of all manufactured device configuration, installation, and deployment through scripting and automation engine while ensuring the continuation and enhancements of services.</li><li>Slashed weeks of manual work by automating the manual log extraction and transformation.</li></ul>
 
 # Trainee of Unified Chargers Oy
 - company: Unified Chargers Oy
