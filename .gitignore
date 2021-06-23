@@ -3,5 +3,4 @@ _site
 .DS_Store
 _vendor
 .jekyll-metadata
-Gemfile.lock
 vendor
