@@ -14,13 +14,10 @@
 - [Configure with your domain name](#domain)
 - [License](#license)
 
-
-
 ## <a name="requirements">Requirements</a>
-
-1. Install a full [Ruby development environment](https://jekyllrb.com/docs/installation/)
-2. Install Jekyll and [bundler](https://jekyllrb.com/docs/ruby-101/#bundler) [gems](https://jekyllrb.com/docs/ruby-101/#gems)
-```gem install jekyll bundler```
+1. Install ruby version 2.6.3 [Ruby development environment](https://jekyllrb.com/docs/installation/)
+2. Install jekyll and the correct version of bundler with ```gem install jekyll bundler:2.0.2```
+3. Run `bundle install` to install all dependencies specified in the Gemfile
 
 ## <a name="running">Running Locally</a>
 
