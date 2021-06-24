@@ -17,7 +17,9 @@
 ## <a name="requirements">Requirements</a>
 1. Install ruby version 2.7.1 [Ruby development environment](https://jekyllrb.com/docs/installation/)
 2. Install jekyll version 4.2.0 and the correct version of bundler with ```gem install bundler:2.2.2```
-3. Run `bundle install` to install all dependencies specified in the Gemfile
+3. Official Jekyll image include ruby 2.7.1 and bundler 2.2.2
+4. Run `bundle install` to install all dependencies specified in the Gemfile
+5. The application by default runs in port 4000
 
 ## <a name="running">Running Locally</a>
 
@@ -28,12 +30,6 @@ To test locally, run the following in your terminal:
 3. `bundle install`
 4. `bundle exec jekyll serve`
 5. Open your browser to `localhost:4000`
-
-## <a name="docker">If Docker Installed (save time in configuring Ruby Jekyll in work machine)</a> 
-1. You can ignore *Requirements* and *Running locally* steps
-2. `cd to the project root folder`
-3. Run ` docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle" --env JEKYLL_ENV=development -p 4000:4000 jekyll/jekyll:3.8 jekyll serve `
-4. Start editing your file according to your need.
 
 ## <a name="config">Basic Customization</a>
 
