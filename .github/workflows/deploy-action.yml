@@ -14,8 +14,10 @@ jobs:
         uses: actions/checkout@v2
       -
         name: Heroku Deploy
-        uses: akhileshns/heroku-deploy@v3.12.12 # Using Github Action found in Marketplace
+        uses: gonuit/heroku-docker-deploy@v1.3.3 # Using Github Action found in Marketplace
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: ${{secrets.HEROKU_APP_NAME}} #Must be unique in Heroku
           heroku_email: ${{secrets.HEROKU_EMAIL}}
+          dockerfile_directory: ./
+          dockerfile_name: Dockerfile
