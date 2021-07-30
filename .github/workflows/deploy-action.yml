@@ -20,4 +20,5 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: ${{secrets.HEROKU_APP_NAME}} #Must be unique in Heroku
           dockerfile_directory: ./
-          dockerfile_name: Dockerfile
+          dockerfile_name: Dockerfile #
+          process_type: web
