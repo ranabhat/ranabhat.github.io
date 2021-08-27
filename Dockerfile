@@ -19,4 +19,4 @@ RUN bundle install
 RUN adduser -u 5678 --disabled-password --gecos "" appuser && chown -R appuser /usr/src/app
 USER appuser
 
-CMD ["jekyll", "serve"]
+CMD ["jekyll", "serve", "-p", "$PORT"]
