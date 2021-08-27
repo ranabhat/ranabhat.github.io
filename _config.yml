@@ -63,5 +63,5 @@ resume_theme:                   default
 # to _config.yml are only recognized when the server starts
 # Serving
 detach:                         false
-port:                           4000
+#port:                           4000
 host:                           0.0.0.0
