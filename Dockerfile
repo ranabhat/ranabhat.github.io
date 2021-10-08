@@ -12,7 +12,7 @@ WORKDIR /usr/src/app
 COPY . .
 
 # Install all dependencies from Gemfile (Gemfile copied on previous step) 
-RUN bundle install 
+RUN chmod a+x Gemfile.lock && bundle update github-pages && bundle install 
 
 # Creates a non-root user with an explicit UID and adds permission to access the /usr/src/app folder
 # For more info, please refer to https://aka.ms/vscode-docker-python-configure-containers
