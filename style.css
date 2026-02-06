@@ -754,8 +754,8 @@ section {
         display: none;
     }
 
-    .right-bar {
-        display: none;
+    .side-bar.right-bar {
+        display: none !important;
     }
 
     .side-line {
